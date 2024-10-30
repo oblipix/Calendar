@@ -1,70 +1,113 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+https://github.com/user-attachments/assets/8385bf47-15b7-4b29-a7b7-83bb8b2b0670
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Calendário
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+**deploy:** 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+**Descrição**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+O calendário é uma ferramenta visual intuitiva e personalizável que permite aos usuários navegar facilmente pelos dias e meses, identificar eventos e marcar atividades concluídas. Com uma interface adaptada para diferentes dispositivos, o calendário se adapta a várias larguras de tela, mantendo sua funcionalidade central, seja em um desktop, tablet ou smartphone.
+Esse calendário funciona bem tanto para uso pessoal quanto para propósitos organizacionais, onde o acompanhamento visual de eventos e tarefas ajuda a manter o fluxo de trabalho organizado e produtivo.
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Funcionalidades**
+
+◾Eventos com Marcação de Conclusão:  Os eventos podem ser marcados como concluídos, aplicando um estilo de riscado no texto, que ajuda o usuário a acompanhar tarefas concluídas e pendentes.
+
+◾ Design Atraente: O calendário usa uma paleta de cores suaves e naturais, como tons de marrom claro e bege, proporcionando uma experiência visual agradável e harmoniosa.
+
+◾ Interatividade: Cada dia no calendário é interativo. Ao passar o mouse ou tocar nos dias e eventos, o usuário recebe um feedback visual, indicando a presença de eventos.
+
+◾ Modal para Detalhes: Ao clicar em um evento, uma janela modal pode aparecer, exibindo detalhes adicionais do evento, permitindo que os usuários vejam descrições e informações extras.
+
+◾ Responsividade: A interface é adaptável para diferentes tamanhos de tela, assegurando uma navegação confortável em qualquer dispositivo.
+
+
+
+
+## Como Clonar este Repositório
+
+
+
+### Pré-requisitos:
+
+> [!IMPORTANT]
+>  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20"/> Ter o Git instalado no seu computador. Se ainda não tiver, baixe e instale o Git.
+>
+> 
+>
+>
+><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="20"/> Uma conta no GitHub (opcional, mas recomendado).
+>
+> 
+>  <img src="https://img.icons8.com/ios/50/000000/code-fork.png" alt="Fork Icon" width="20"/>  Faça um Fork do repositório, assim nada será alterado do repositório original.
+>
+> #### React Calendar
+>
+> ```diff
+> npm install react-calendar
+>```
+>
+> 
+> #### React Icons
+>
+>```diff
+> npm install react-icons
+> ``` 
+  
+  
+  ### Vamos clonar este repositório passo a passo. 
+
+  
+_Obtenha a URL do repositório:_
+
+` https://github.com/oblipix/Calendar.git `
+
+
+
+
+navegue até a pasta onde deseja clonar.
+
+**Clone o repositório:**
+
+```diff
+git clone https://github.com/oblipix/Calendar.git
+```
+
+
+<sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
+
+
+
+
+
+
+
+
+
