@@ -64,7 +64,8 @@ body {
 
 .react-calendar__tile {
 
-    
+    position: relative;
+    left: -5px;
     z-index: 1000;
     padding: 10px;
     text-align: center;
@@ -481,6 +482,14 @@ h6 {
           bottom: 210px;
           position: absolute;
     
+    }
+
+
+
+
+    .react-calendar__tile{
+        position: relative;
+        left: 5px;
     }
 
 
