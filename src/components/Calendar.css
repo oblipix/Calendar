@@ -115,11 +115,24 @@ body {
 
 
 
-.react-calendar__navigation__label{
-margin-left: 0px;
-background-color: #fff;
-border: none;
-margin-bottom: 30px;
+ .react-calendar__navigation
+  {
+    position: relative;
+    margin-left: -150px;  
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+.react-calendar__navigation__label {
+    
+    align-items: center;    
+    background-color: #f5f5f0;
+    border: none;
+    color: #CD853F;
+    
 }
 
 
@@ -146,14 +159,7 @@ margin-bottom: 30px;
     border: none;
 }
 
-.react-calendar__navigation__label__labelText,
-.react-calendar__navigation__label{
-    background-color: #f5f5f0;
-    border: none;
-    color: #CD853F;
-   
-    
-}
+ 
 
 .react-calendar__navigation__arrow, react-calendar__navigation__next2-button{
     
@@ -173,7 +179,9 @@ margin-bottom: 30px;
 .react-calendar__decade-view__years__year,
 .react-calendar__century-view__decades__decade{
     border: none;
-    background-color: transparent;
+    background-color: transparent;   
+    margin-bottom: 20px;
+
     
 }
 
@@ -192,9 +200,13 @@ margin-bottom: 30px;
 
 
 
-.react-calendar__tile--hasActive  {
+.react-calendar__tile--hasActive
+  {
     background-color: #CD853F;
+    margin-bottom: 20px;
 }
+
+
 
 
 
@@ -470,4 +482,31 @@ h6 {
           position: absolute;
     
     }
+
+
+
+    .react-calendar__navigation {
+        
+        position: relative;
+        margin-left: -150px;       
+        text-align: center;
+    }
+    
+    .react-calendar__navigation__label {
+        flex-grow: 1;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .react-calendar__navigation__prev2-button,
+    .react-calendar__navigation__next2-button {
+        position: relative;
+       
+    }
+    
+         
+    
+    
+
 }
