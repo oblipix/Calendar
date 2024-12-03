@@ -88,7 +88,7 @@ function MyCalendar() {
                     <div className="modal-content">
                         <span className="close" onClick={handleCloseAddEventModal}>&times;</span>
                         <h2>{editingIndex !== null ? 'Editar Evento' : 'Adicionar Evento'}</h2>
-                        <p>{editingIndex !== null ? 'Editar evento para:' : 'Adicionar um evento para:'} {date.toDateString()}</p>
+                        <p>{editingIndex !== null ? 'Editar evento para:' : 'Adicionar um evento para:'} {date.toLocaleDateString('pt-BR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</p>
                         <textarea
                             value={eventDescription}
                             onChange={(e) => setEventDescription(e.target.value)}
@@ -106,7 +106,7 @@ function MyCalendar() {
             )}
 
             <div className="event-list">
-                <h3>Eventos para {date.toDateString()}:</h3>
+            <h3>Eventos para {date.toLocaleDateString('pt-BR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}:</h3>
                 {events.filter(event => event.date === date.toDateString()).map((event, index) => (
                     <div key={index} className={`event-item ${event.completed ? 'completed' : ''}`}>
                         <span>{event.description}</span>
