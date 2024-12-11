@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/035ceee0-83b5-4b69-aa57-b7fa490059ec
 
 
 
-## Calendário
+## 📅 Calendário
 
 
 **deploy:**  [calendarEvent.vercel.app](https://calendarevent.vercel.app/)
@@ -39,7 +39,8 @@ Esse calendário funciona bem tanto para uso pessoal quanto para propósitos org
 
 
 
-**Funcionalidades**
+
+## 📚 Funcionalidades
 
 ◾Eventos com Marcação de Conclusão:  Os eventos podem ser marcados como concluídos, aplicando um estilo de riscado no texto, que ajuda o usuário a acompanhar tarefas concluídas e pendentes.
 
@@ -54,7 +55,7 @@ Esse calendário funciona bem tanto para uso pessoal quanto para propósitos org
 
 
 
-## Como Clonar este Repositório
+## ⚙️ Como Clonar este Repositório
 
 
 
@@ -84,8 +85,16 @@ Esse calendário funciona bem tanto para uso pessoal quanto para propósitos org
 > npm install react-icons
 > ``` 
   
+#### 📄 Estrutura do Projeto
+
+
+
+![Captura de tela 2024-12-11 091120](https://github.com/user-attachments/assets/63cebc37-2937-40ce-8fc8-3f20acc3e5ad)
+
+
+
   
-  ### Vamos clonar este repositório passo a passo. 
+  ## 🌀 Vamos clonar este repositório passo a passo. 
 
   
 _Obtenha a URL do repositório:_
@@ -108,9 +117,6 @@ git clone https://github.com/oblipix/Calendar.git
 
 
 
-
-
-
-
-
+## 📜 Licença
+Esse projeto está licenciado sob a MIT License.
 
