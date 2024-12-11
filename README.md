@@ -1,30 +1,6 @@
 
 
 
-
-
-
-https://github.com/user-attachments/assets/035ceee0-83b5-4b69-aa57-b7fa490059ec
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 Calendário
 
 
@@ -35,6 +11,32 @@ https://github.com/user-attachments/assets/035ceee0-83b5-4b69-aa57-b7fa490059ec
 
 O calendário é uma ferramenta visual intuitiva e personalizável que permite aos usuários navegar facilmente pelos dias e meses, identificar eventos e marcar atividades concluídas. Com uma interface adaptada para diferentes dispositivos, o calendário se adapta a várias larguras de tela, mantendo sua funcionalidade central, seja em um desktop, tablet ou smartphone.
 Esse calendário funciona bem tanto para uso pessoal quanto para propósitos organizacionais, onde o acompanhamento visual de eventos e tarefas ajuda a manter o fluxo de trabalho organizado e produtivo.
+
+
+
+
+https://github.com/user-attachments/assets/035ceee0-83b5-4b69-aa57-b7fa490059ec
+
+
+
+
+
+
+___
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -54,6 +56,8 @@ Esse calendário funciona bem tanto para uso pessoal quanto para propósitos org
 
 
 
+
+___
 
 ## ⚙️ Como Clonar este Repositório
 
@@ -92,20 +96,6 @@ Esse calendário funciona bem tanto para uso pessoal quanto para propósitos org
 ![Captura de tela 2024-12-11 091120](https://github.com/user-attachments/assets/63cebc37-2937-40ce-8fc8-3f20acc3e5ad)
 
 
-
-  
-  ## 🌀 Vamos clonar este repositório passo a passo. 
-
-  
-_Obtenha a URL do repositório:_
-
-` https://github.com/oblipix/Calendar.git `
-
-
-
-
-navegue até a pasta onde deseja clonar.
-
 **Clone o repositório:**
 
 ```diff
@@ -116,6 +106,7 @@ git clone https://github.com/oblipix/Calendar.git
 <sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
 
 
+___
 
 ## 📜 Licença
 Esse projeto está licenciado sob a MIT License.
