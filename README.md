@@ -106,6 +106,81 @@ git clone https://github.com/oblipix/Calendar.git
 <sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
 
 
+
+
+--- 
+### ENGLISH
+
+---
+
+## 📅 Calendar
+
+**deploy:** [calendarEvent.vercel.app](https://calendarevent.vercel.app/)
+
+**Description**
+
+The calendar is an intuitive and customizable visual tool that allows users to easily navigate through days and months, identify events, and mark completed activities. With an interface adapted for different devices, the calendar adjusts to various screen widths, maintaining its core functionality whether on a desktop, tablet, or smartphone. This calendar works well for both personal use and organizational purposes, where visual tracking of events and tasks helps keep the workflow organized and productive.
+
+
+
+---
+
+## 📚 Features
+
+◾ Events with Completion Mark: Events can be marked as completed, applying a strikethrough style to the text, which helps the user track completed and pending tasks.
+
+◾ Attractive Design: The calendar uses a soft and natural color palette, such as light brown and beige tones, providing a pleasant and harmonious visual experience.
+
+◾ Interactivity: Each day on the calendar is interactive. When hovering over or tapping on days and events, the user receives visual feedback, indicating the presence of events.
+
+◾ Modal for Details: By clicking on an event, a modal window may appear, displaying additional event details, allowing users to see descriptions and extra information.
+
+◾ Responsiveness: The interface is adaptable to different screen sizes, ensuring comfortable navigation on any device.
+
+---
+
+## ⚙️ How to Clone this Repository
+
+### Prerequisites:
+
+> [!IMPORTANT]
+> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20"/> Have Git installed on your computer. If you don't have it yet, download and install Git.
+>
+> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="20"/> A GitHub account (optional, but recommended).
+>
+> <img src="https://img.icons8.com/ios/50/000000/code-fork.png" alt="Fork Icon" width="20"/> Fork the repository, so nothing is altered from the original repository.
+>
+> #### React Calendar
+>
+> ```diff
+> npm install react-calendar
+> ```
+>
+> #### React Icons
+>
+> ```diff
+> npm install react-icons
+> ```
+
+#### 📄 Project Structure
+
+![Captura de tela 2024-12-11 091120](https://github.com/user-attachments/assets/63cebc37-2937-40ce-8fc8-3f20acc3e5ad)
+
+**Clone the repository:**
+
+```diff
+git clone [https://github.com/oblipix/Calendar.git](https://github.com/oblipix/Calendar.git)
+
+
+
+
+
+
+
+
+
+
+
 ___
 
 ## 📜 Licença
