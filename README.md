@@ -7,7 +7,6 @@
 **deploy:**  [calendarEvent.vercel.app](https://calendarevent.vercel.app/)
 
 
-**Descrição**
 
 O calendário é uma ferramenta visual intuitiva e personalizável que permite aos usuários navegar facilmente pelos dias e meses, identificar eventos e marcar atividades concluídas. Com uma interface adaptada para diferentes dispositivos, o calendário se adapta a várias larguras de tela, mantendo sua funcionalidade central, seja em um desktop, tablet ou smartphone.
 Esse calendário funciona bem tanto para uso pessoal quanto para propósitos organizacionais, onde o acompanhamento visual de eventos e tarefas ajuda a manter o fluxo de trabalho organizado e produtivo.
@@ -23,22 +22,6 @@ https://github.com/user-attachments/assets/035ceee0-83b5-4b69-aa57-b7fa490059ec
 
 
 ___
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
