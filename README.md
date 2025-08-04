@@ -169,9 +169,8 @@ The calendar is an intuitive and customizable visual tool that allows users to e
 **Clone the repository:**
 
 ```diff
-git clone [https://github.com/oblipix/Calendar.git](https://github.com/oblipix/Calendar.git)
-
-
+git clone https://github.com/oblipix/Calendar.git
+```
 
 
 
